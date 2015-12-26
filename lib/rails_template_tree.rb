@@ -1,0 +1,2 @@
+module RailsTemplateTree
+end
